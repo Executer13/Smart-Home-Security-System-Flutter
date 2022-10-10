@@ -4,7 +4,7 @@ This is a Flutter Application based on Python Server and Firebase Server. This A
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+OnBoadring Screen is used to guide the new Users. User Created Account and Confirms via Email and Finally Logs in to the account. Hpmepage presents the Footage of the Camera which uses rtsp link to fetch it and the buttons on the Homepage are used to change the model modes. notification panel is used to display all the notifiations while draw screen is used to draw the specfic area where the user wants to monitor. once the alert is generated from python server the user will be informed via notificatoin which includes date time and picture. 
 
 ## Getting Started
 
