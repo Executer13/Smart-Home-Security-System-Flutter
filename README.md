@@ -57,6 +57,8 @@ Contributors names and contact info
 
 ex. Yasan Malik
 ex. [@YasanMalik]([https://twitter.com/dompizzie](https://www.linkedin.com/in/yasan-malik-7ba1aa247/?originalSubdomain=pk))
+ex. https://www.fiverr.com/yasanmalik
+ex. https://www.linkedin.com/in/yasan-malik-7ba1aa247/
 
 ## Version History
 * Initial Release
