@@ -1,6 +1,11 @@
 # Smart Home Security System Using Flutter & Python
 
-This is a Flutter Application based on Python Server and Firebase Server. This App uses RTSP Link of Cameras to Stream the Camera footage and Python Sever is used to Process Video to Perform Facial recogntion and Pedestrian Detection annd generate Alert in case of Intrusion over line or Area over specific area drawn by user on Flutter App.
+This is a Flutter Application based on Python Server and Firebase Server.
+
+* Python Server: 
+        https://github.com/Executer13/Smart-Home-Security-System-Python-Server
+
+This App uses RTSP Link of Cameras to Stream the Camera footage and Python Sever is used to Process Video to Perform Facial recogntion and Pedestrian Detection annd generate Alert in case of Intrusion over line or Area over specific area drawn by user on Flutter App.
 
 ## Description
 
